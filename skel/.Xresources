@@ -1,0 +1,6 @@
+Xft.dpi: 96
+Xft.hinting:1
+Xft.hintstyle:hintfull
+XTerm*background:black
+XTerm*foreground:white
+XTerm*faceName: Terminus:antialias=False:pixelsize=14
