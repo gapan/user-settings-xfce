@@ -4,7 +4,7 @@
   <property name="backdrop" type="empty">
     <property name="screen0" type="empty">
       <property name="monitor0" type="empty">
-        <property name="image-path" type="string" value="/usr/share/xfce4/backdrops/tentacles.png"/>
+        <property name="image-path" type="string" value="/usr/share/xfce4/backdrops/BlurryBlue.png"/>
       </property>
     </property>
   </property>
