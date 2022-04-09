@@ -3,7 +3,7 @@
 <channel name="xfwm4" version="1.0">
   <property name="general" type="empty">
     <property name="button_layout" type="string" value="O|HMC"/>
-    <property name="theme" type="string" value="Kokodi"/>
+    <property name="theme" type="string" value="Liso-Light"/>
     </property>
   </property>
 </channel>
