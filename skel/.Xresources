@@ -1,6 +1,98 @@
 Xft.dpi: 96
 Xft.hinting:1
 Xft.hintstyle:hintfull
+
+! --- xterm
 XTerm*background:black
 XTerm*foreground:white
 XTerm*faceName: Terminus:antialias=False:pixelsize=14
+
+! --- xcalc
+xcalc*ti.button1.vertDistance: 4
+xcalc*ti.button2.vertDistance: 4
+xcalc*ti.button3.vertDistance: 4
+xcalc*ti.button4.vertDistance: 4
+xcalc*ti.button5.vertDistance: 4
+xcalc*ti.background: gray90
+xcalc*ti.bevel.borderColor: gray65
+xcalc*ti.bevel.borderWidth: 1
+xcalc*ti.bevel.vertDistance: 4
+xcalc*ti.bevel.defaultDistance: 0
+xcalc*ti.bevel.background: rgb:b/c/b
+xcalc*ti.bevel.screen*background: rgb:b/c/b
+xcalc*ti.bevel.screen.borderColor: rgb:b/c/b
+xcalc*ti.bevel.screen.vertDistance: 10
+xcalc*ti.bevel.screen.horizDistance: 10
+xcalc*ti.bevel.screen*left: chainLeft
+xcalc*ti.bevel.screen*right: chainRight
+xcalc*ti.bevel.screen*top: chainTop
+xcalc*ti.bevel.screen*bottom: chainBottom
+xcalc*ti.bevel.screen*LCD.foreground: gray10
+xcalc*ti.bevel.screen*INV.vertDistance: 0
+xcalc*ti.Command.borderColor: gray65
+xcalc*ti.Command.background: gray85
+xcalc*ti.Command.foreground: gray30
+! AC
+xcalc*ti.button5.background: rgb:e/b/b
+! x!, trunc, shr
+xcalc*ti.button20.background: gray85
+xcalc*ti.button22.background: gray85
+xcalc*ti.button30.background: gray85
+! ()
+xcalc*ti.button23.background: rgb:c/d/e
+xcalc*ti.button24.background: rgb:c/d/e
+! DRG, base
+xcalc*ti.button10.background: rgb:b/e/b
+xcalc*ti.button25.background: rgb:b/e/b
+! DEFABC
+xcalc*ti.button27.background: rgb:d/e/c
+xcalc*ti.button28.background: rgb:d/e/c
+xcalc*ti.button29.background: rgb:d/e/c
+xcalc*ti.button32.background: rgb:d/e/c
+xcalc*ti.button33.background: rgb:d/e/c
+xcalc*ti.button34.background: rgb:d/e/c
+! / * + -
+xcalc*ti.button35.background: rgb:e/d/c
+xcalc*ti.button40.background: rgb:e/d/c
+xcalc*ti.button45.background: rgb:e/d/c
+xcalc*ti.button50.background: rgb:e/d/c
+! =
+xcalc*ti.button55.background: rgb:b/b/e
+! numpad
+xcalc*ti.button37.background: gray95
+xcalc*ti.button38.background: gray95
+xcalc*ti.button39.background: gray95
+xcalc*ti.button42.background: gray95
+xcalc*ti.button43.background: gray95
+xcalc*ti.button44.background: gray95
+xcalc*ti.button47.background: gray95
+xcalc*ti.button48.background: gray95
+xcalc*ti.button49.background: gray95
+xcalc*ti.button52.background: gray95
+
+! --- xmessage
+xmessage*form.okay.shapeStyle: rectangle
+xmessage*form.okay.background: IndianRed
+xmessage*form.okay.foreground: rgb:e/b/b
+xmessage*message*background: ivory3
+xmessage*background: gray85
+xmessage*foreground: gray15
+xmessage*Scrollbar.width: 10
+xmessage*Scrollbar.borderWidth: 1
+xmessage*Text.?.cursorColor: rgb:d/5/5
+xmessage*Text.borderColor: gray65
+xmessage*Text*background: gray95
+xmessage*Command.highlightThickness: 1
+xmessage*Command.internalWidth: 5
+xmessage*Command.internalHeight: 3
+xmessage*Command.borderColor: gray40
+xmessage*Command.shapeStyle: Rectangle
+xmessage*Command.background: gray80
+xmessage*faceName: DejaVu Sans Mono
+xmessage*faceSize: 12
+xmessage*message.scrollVertical: Always
+xmessage*message.scrollHorizontal: Never
+! add keyboard shortcuts to easily quit program
+xmessage*baseTranslations:#augment\
+        <Key>Return:exit()\n\
+        <Key>space:exit()
