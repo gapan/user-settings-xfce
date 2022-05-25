@@ -4,6 +4,11 @@
   <property name="general" type="empty">
     <property name="button_layout" type="string" value="O|HMC"/>
     <property name="theme" type="string" value="Salix"/>
+    <property name="show_dock_shadow" type="bool" value="false"/>
+    <property name="show_frame_shadow" type="bool" value="false"/>
+    <property name="show_popup_shadow" type="bool" value="false"/>
+    <property name="title_shadow_active" type="string" value="false"/>
+    <property name="title_shadow_inactive" type="string" value="false"/> 
     </property>
   </property>
 </channel>
