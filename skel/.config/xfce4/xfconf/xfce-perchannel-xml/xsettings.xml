@@ -2,14 +2,14 @@
 
 <channel name="xsettings" version="1.0">
   <property name="Net" type="empty">
-	<property name="ThemeName" type="string" value="Adwaita"/>
-	<property name="IconThemeName" type="string" value="Qogir"/>
+    <property name="ThemeName" type="string" value="Adwaita"/>
+    <property name="IconThemeName" type="string" value="Qogir"/>
   </property>
   <property name="Xft" type="empty">
-	<property name="DPI" type="empty"/>
-	<property name="Antialias" type="int" value="1"/>
-	<property name="Hinting" type="int" value="-1"/>
-	<property name="HintStyle" type="string" value="hintmedium"/>
-	<property name="RGBA" type="string" value="rgb"/>
+    <property name="DPI" type="empty"/>
+    <property name="Antialias" type="int" value="1"/>
+    <property name="Hinting" type="int" value="-1"/>
+    <property name="HintStyle" type="string" value="hintmedium"/>
+    <property name="RGBA" type="string" value="rgb"/>
    </property>
 </channel>
