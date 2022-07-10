@@ -29,10 +29,7 @@
     </property>
   </property>
   <property name="plugins" type="empty">
-    <property name="plugin-1" type="string" value="applicationsmenu">
-      <property name="button-title" type="string" value="Salix"/>
-      <property name="button-icon" type="string" value="salix"/>
-    </property>
+    <property name="plugin-1" type="string" value="whiskermenu"/>
     <property name="plugin-2" type="string" value="actions">
       <property name="appearance" type="uint" value="0"/>
       <property name="items" type="array">
