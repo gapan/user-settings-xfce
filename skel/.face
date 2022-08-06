@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="org.freedesktop.Salix_User_2.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="10.429825"
+     inkscape:cx="32.311185"
+     inkscape:cy="32.407063"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14"
+     showguides="true" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#ffe287"
+     stroke="#e5bd41"
+     stroke-width="2"
+     style="paint-order:stroke markers fill"
+     id="circle2" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#ffe287"
+     stroke-width=".9"
+     style="paint-order:stroke markers fill"
+     id="circle4" />
+  <path
+     style="display:inline;fill:#55d400;fill-opacity:1;stroke:#66ff00;stroke-width:0.174466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 48.732896,15.166333 c -12.395554,2.492874 -21.349164,-2.594651 -30.6651,9.373942 h 30.668215 c 0.05907,-2.801011 -0.115767,-5.867011 -0.0036,-9.373942 z m -32.04229,12.700455 c -0.789791,2.41163 -1.339679,5.276349 -1.59526,8.678665 h 31.835679 c 0.808657,-2.405916 1.373723,-5.271117 1.642152,-8.678665 z m -1.747031,12.00518 c -0.05004,2.751575 -0.256796,5.660016 0.04917,9.0532 l 0.0042,0.0121 C 26.266221,48.222906 37.920737,50.46367 45.51552,39.873177 Z"
+     id="path3076-5-1-6"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccc"
+     inkscape:export-filename="/home/ale/Desktop/Logo8.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+</svg>
