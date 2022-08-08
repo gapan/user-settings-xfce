@@ -11,4 +11,4 @@ install:
 
 .PHONY: srcpkg
 srcpkg:
-	git archive --prefix=user-settings-xfce/ master | xz > ../user-settings-xfce.tar.xz
+	git archive --prefix=user-settings-xfce/ master | xz -9 > ../user-settings-xfce.tar.xz
