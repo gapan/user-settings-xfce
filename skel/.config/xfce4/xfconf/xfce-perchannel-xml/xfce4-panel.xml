@@ -65,7 +65,7 @@
     </property>
     <property name="plugin-6" type="string" value="systray">
       <property name="show-frame" type="bool" value="false"/>
-      <property name="icon-size" type="int" value="0"/>
+      <property name="icon-size" type="int" value="24"/>
     </property>
     <property name="plugin-7" type="string" value="showdesktop"/>
     <property name="plugin-9" type="string" value="launcher">
