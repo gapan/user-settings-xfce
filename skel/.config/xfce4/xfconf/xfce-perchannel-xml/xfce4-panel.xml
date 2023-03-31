@@ -62,6 +62,7 @@
     <property name="plugin-5" type="string" value="clock">
       <property name="show-frame" type="bool" value="false"/>
       <property name="digital-format" type="string" value=" %a %_d %b, %R "/>
+      <property name="digital-time-font" type="string" value="Sans 10"/>
     </property>
     <property name="plugin-6" type="string" value="systray">
       <property name="show-frame" type="bool" value="false"/>
